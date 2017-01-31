@@ -1,0 +1,22 @@
+{
+  "name": "map-image",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Ehsan Elhampour <ehsan.elhampour@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leaflet": "^1.0.3",
+    "angular": "^1.6.1",
+    "angular-leaflet-directive": "^0.10.0"
+  }
+}
